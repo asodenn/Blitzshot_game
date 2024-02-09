@@ -1,9 +1,9 @@
-# Blitzshot_game
+## Blitzshot_game
 
-Description
+#Description
 BLITZSHOT is an engaging shooter game where players aim to hit targets within a limited time frame. With its simple yet addictive gameplay, BLITZSHOT challenges players to test their accuracy and speed.
 
-Features
+#Features
 Main Menu: Upon starting the game, players are greeted with a main menu interface.
 Target Shooting: Players aim to hit circular targets that appear on the screen.
 Dynamic Target Spawning: After hitting a target, a new target appears at a random position on the screen.
@@ -17,7 +17,7 @@ Hard: Targets start moving horizontally when the score reaches 100.
 
 
 
-Getting Started
+##Getting Started
 Clone the repository to your local machine.
 Make sure you have Python installed.
 Install Pygame using pip:
@@ -27,12 +27,6 @@ Run the main Python file to start the game.
 BLITZSHOT_main.py
 
 
-Controls
-Mouse: Aim and click to shoot targets.
-
-Gameplay
-Use your mouse to aim and click to shoot targets.
-
-Builth with
+##Builth with
 Python 3.10.5
 Pygame 2.5.2
