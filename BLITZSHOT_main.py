@@ -176,7 +176,6 @@ def game_over():
 
 def game():
     global score
-    global highest_score
     global target_radius
     global target_speed
 
