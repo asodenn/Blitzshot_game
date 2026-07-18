@@ -31,3 +31,6 @@ Run the main Python file to start the game:  ***BLITZSHOT_main.py***
 ## Builth with 
 Python 3.10.5 <br />
 Pygame 2.5.2 <br />
+
+🎮 Play Now
+https://asodenn.github.io/Blitzshot_game/ 
